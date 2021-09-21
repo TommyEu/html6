@@ -3,7 +3,7 @@
 
 body{
 	
-	background: url image(splash.png) no-repeat;
+	background: url("images/splash.png") no-repeat;
 	background-size: cover;
 	
 }
@@ -23,10 +23,12 @@ header{
 
 header h1{
 	font-size: 55px;
-	font-family: charbroiled, sans-serif;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif" sans-serif;
 	font-weight: 400;
 	font-style: normal;
 	text-align: center
 	color: rgba(239, 178, 16, 1)
 		
+}
+nav{align-content: center
 }
