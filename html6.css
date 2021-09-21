@@ -5,6 +5,8 @@ body{
 	
 	background: url("images/splash.png") no-repeat;
 	background-size: cover;
+img {
+  float: right;
 	
 }
 
